@@ -1,0 +1,53 @@
+{
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_dark_forest": "2021-08-27 09:08:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-08-27 09:09:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-08-27 09:09:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-08-27 09:09:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-08-27 09:09:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-08-27 09:09:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-08-27 09:09:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dark_forest": "2021-08-27 09:08:56 +0800",
+      "minecraft:swamp": "2021-08-27 09:12:39 +0800",
+      "minecraft:plains": "2021-08-27 09:09:17 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

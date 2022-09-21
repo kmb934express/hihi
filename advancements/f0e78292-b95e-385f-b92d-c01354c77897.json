@@ -1,0 +1,204 @@
+{
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-04-12 08:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-04-12 08:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-03-19 21:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2021-04-11 08:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-04-12 08:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-04-16 02:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-04-11 08:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2021-04-12 08:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-04-12 08:45:03 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_swamp": "2021-04-11 07:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-04-11 08:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2021-04-12 08:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2021-04-12 08:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2021-03-19 21:06:34 +0000",
+      "minecraft:snowy_mountains": "2021-04-15 20:49:21 +0000",
+      "minecraft:forest": "2021-03-19 21:40:45 +0000",
+      "minecraft:mountains": "2021-03-27 19:59:49 +0000",
+      "minecraft:badlands_plateau": "2021-04-15 20:48:36 +0000",
+      "minecraft:taiga": "2021-03-19 21:40:16 +0000",
+      "minecraft:desert_hills": "2021-03-27 04:13:59 +0000",
+      "minecraft:giant_tree_taiga": "2021-04-11 07:49:33 +0000",
+      "minecraft:deep_cold_ocean": "2021-03-27 04:13:19 +0000",
+      "minecraft:snowy_tundra": "2021-04-15 20:49:19 +0000",
+      "minecraft:taiga_hills": "2021-04-11 07:49:28 +0000",
+      "minecraft:desert": "2021-03-27 04:14:27 +0000",
+      "minecraft:frozen_river": "2021-04-15 20:49:24 +0000",
+      "minecraft:deep_frozen_ocean": "2021-04-15 23:00:07 +0000",
+      "minecraft:jungle": "2021-04-15 20:47:54 +0000",
+      "minecraft:birch_forest": "2021-03-27 20:00:06 +0000",
+      "minecraft:jungle_hills": "2021-04-15 20:47:56 +0000",
+      "minecraft:warm_ocean": "2021-04-17 04:06:09 +0000",
+      "minecraft:deep_lukewarm_ocean": "2021-04-13 09:18:56 +0000",
+      "minecraft:badlands": "2021-04-15 20:48:34 +0000",
+      "minecraft:savanna_plateau": "2021-03-19 21:06:43 +0000",
+      "minecraft:beach": "2021-03-19 21:06:33 +0000",
+      "minecraft:dark_forest": "2021-03-19 09:14:22 +0000",
+      "minecraft:river": "2021-03-19 09:14:58 +0000",
+      "minecraft:lukewarm_ocean": "2021-04-12 08:48:25 +0000",
+      "minecraft:birch_forest_hills": "2021-03-27 20:00:09 +0000",
+      "minecraft:wooded_mountains": "2021-04-11 07:53:43 +0000",
+      "minecraft:wooded_hills": "2021-03-27 19:59:59 +0000",
+      "minecraft:giant_tree_taiga_hills": "2021-04-11 07:49:35 +0000",
+      "minecraft:stone_shore": "2021-04-11 07:55:17 +0000",
+      "minecraft:wooded_badlands_plateau": "2021-04-15 21:23:44 +0000",
+      "minecraft:swamp": "2021-03-19 21:47:29 +0000",
+      "minecraft:savanna": "2021-03-19 21:06:39 +0000",
+      "minecraft:plains": "2021-03-19 09:14:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2021-04-11 08:03:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2021-04-12 08:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-03-19 21:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-04-15 08:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-04-12 08:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-04-12 08:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-03-19 21:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2021-04-12 08:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-03-19 21:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2021-04-12 08:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2021-04-12 08:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-03-19 21:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-04-12 08:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-03-19 21:03:03 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

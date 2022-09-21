@@ -1,0 +1,105 @@
+{
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_swamp": "2022-03-07 13:13:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-03-08 10:43:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-03-08 10:43:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2022-03-10 18:45:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-03-08 10:43:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-03-07 12:36:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-03-08 10:43:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-03-07 12:36:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-03-08 10:43:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-03-08 10:43:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2022-03-07 17:38:12 +0800",
+      "minecraft:jungle_edge": "2022-03-08 13:29:49 +0800",
+      "minecraft:snowy_mountains": "2022-03-07 18:16:03 +0800",
+      "minecraft:mountains": "2022-03-07 12:41:19 +0800",
+      "minecraft:forest": "2022-03-07 13:16:00 +0800",
+      "minecraft:badlands_plateau": "2022-03-07 15:03:08 +0800",
+      "minecraft:taiga": "2022-03-07 13:16:43 +0800",
+      "minecraft:desert_hills": "2022-03-07 15:06:43 +0800",
+      "minecraft:giant_tree_taiga": "2022-03-08 10:42:23 +0800",
+      "minecraft:deep_cold_ocean": "2022-03-07 17:46:35 +0800",
+      "minecraft:snowy_tundra": "2022-03-07 18:15:54 +0800",
+      "minecraft:taiga_hills": "2022-03-07 13:16:45 +0800",
+      "minecraft:desert": "2022-03-07 15:03:13 +0800",
+      "minecraft:frozen_river": "2022-03-07 18:15:57 +0800",
+      "minecraft:deep_frozen_ocean": "2022-03-08 11:28:27 +0800",
+      "minecraft:jungle": "2022-03-08 11:37:41 +0800",
+      "minecraft:birch_forest": "2022-03-07 12:49:34 +0800",
+      "minecraft:jungle_hills": "2022-03-08 11:37:47 +0800",
+      "minecraft:warm_ocean": "2022-03-08 17:31:37 +0800",
+      "minecraft:deep_lukewarm_ocean": "2022-03-07 15:03:28 +0800",
+      "minecraft:badlands": "2022-03-07 15:03:09 +0800",
+      "minecraft:savanna_plateau": "2022-03-07 15:03:17 +0800",
+      "minecraft:beach": "2022-03-07 17:14:39 +0800",
+      "minecraft:dark_forest": "2022-03-07 13:16:03 +0800",
+      "minecraft:river": "2022-03-07 12:34:02 +0800",
+      "minecraft:lukewarm_ocean": "2022-03-08 11:12:32 +0800",
+      "minecraft:snowy_taiga": "2022-03-07 18:16:56 +0800",
+      "minecraft:birch_forest_hills": "2022-03-07 12:48:22 +0800",
+      "minecraft:wooded_mountains": "2022-03-07 13:13:12 +0800",
+      "minecraft:wooded_hills": "2022-03-07 13:17:37 +0800",
+      "minecraft:stone_shore": "2022-03-07 12:33:37 +0800",
+      "minecraft:giant_tree_taiga_hills": "2022-03-08 10:42:26 +0800",
+      "minecraft:wooded_badlands_plateau": "2022-03-07 13:22:12 +0800",
+      "minecraft:swamp": "2022-03-07 13:13:16 +0800",
+      "minecraft:snowy_taiga_hills": "2022-03-08 17:31:24 +0800",
+      "minecraft:savanna": "2022-03-07 15:03:16 +0800",
+      "minecraft:plains": "2022-03-07 13:16:35 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

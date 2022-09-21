@@ -1,0 +1,32 @@
+{
+  "minecraft:nether/all_effects": {
+    "criteria": {
+      "all_effects": "2022-06-08 17:01:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2022-06-08 17:01:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2022-06-08 16:52:44 +0800",
+      "minecraft:taiga": "2022-06-08 16:54:51 +0800",
+      "minecraft:beach": "2022-06-08 16:54:55 +0800",
+      "minecraft:river": "2022-06-08 16:52:05 +0800",
+      "minecraft:wooded_mountains": "2022-06-08 16:52:55 +0800",
+      "minecraft:stone_shore": "2022-06-08 16:50:40 +0800"
+    },
+    "done": false
+  },
+  "minecraft:nether/all_potions": {
+    "criteria": {
+      "all_effects": "2022-06-08 17:01:44 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

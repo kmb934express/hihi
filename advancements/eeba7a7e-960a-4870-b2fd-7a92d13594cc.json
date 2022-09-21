@@ -1,0 +1,22 @@
+{
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2021-07-10 16:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-07-10 16:44:00 +0000",
+      "minecraft:mountains": "2021-07-10 16:44:26 +0000",
+      "minecraft:taiga": "2021-07-10 16:40:46 +0000",
+      "minecraft:taiga_hills": "2021-07-10 16:43:23 +0000",
+      "minecraft:dark_forest": "2021-07-10 16:34:52 +0000",
+      "minecraft:river": "2021-07-10 16:42:58 +0000",
+      "minecraft:wooded_mountains": "2021-07-10 16:44:24 +0000",
+      "minecraft:plains": "2021-07-10 16:35:01 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

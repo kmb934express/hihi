@@ -1,0 +1,29 @@
+{
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-05-08 23:07:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-05-08 23:07:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2022-05-08 23:04:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2022-05-08 23:02:50 +0800",
+      "minecraft:river": "2022-05-08 23:01:55 +0800",
+      "minecraft:stone_shore": "2022-05-08 23:01:37 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

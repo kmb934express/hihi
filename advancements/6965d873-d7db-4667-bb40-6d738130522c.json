@@ -1,0 +1,42 @@
+{
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_swamp": "2022-01-22 11:27:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-01-22 11:20:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-01-22 11:19:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2022-01-22 11:27:52 +0800",
+      "minecraft:mountains": "2022-01-22 11:27:47 +0800",
+      "minecraft:taiga": "2022-01-22 11:38:03 +0800",
+      "minecraft:giant_tree_taiga": "2022-01-22 11:38:11 +0800",
+      "minecraft:taiga_hills": "2022-01-22 11:38:42 +0800",
+      "minecraft:birch_forest": "2022-01-22 11:27:54 +0800",
+      "minecraft:beach": "2022-01-22 11:34:57 +0800",
+      "minecraft:dark_forest": "2022-01-22 11:28:49 +0800",
+      "minecraft:river": "2022-01-22 11:26:18 +0800",
+      "minecraft:birch_forest_hills": "2022-01-22 11:27:55 +0800",
+      "minecraft:wooded_mountains": "2022-01-22 11:27:50 +0800",
+      "minecraft:wooded_hills": "2022-01-22 11:28:11 +0800",
+      "minecraft:stone_shore": "2022-01-22 11:18:16 +0800",
+      "minecraft:giant_tree_taiga_hills": "2022-01-22 11:38:15 +0800",
+      "minecraft:swamp": "2022-01-22 11:27:56 +0800",
+      "minecraft:plains": "2022-01-22 11:28:22 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

@@ -1,0 +1,15 @@
+{
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_dark_forest": "2021-07-21 18:21:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dark_forest": "2021-07-21 18:21:38 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

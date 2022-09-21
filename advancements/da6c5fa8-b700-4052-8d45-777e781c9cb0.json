@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_tundra": "2022-03-08 15:56:04 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

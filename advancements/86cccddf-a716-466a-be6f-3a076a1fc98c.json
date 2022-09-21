@@ -1,0 +1,16 @@
+{
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2021-11-01 17:58:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2021-11-01 17:59:03 +0800",
+      "minecraft:stone_shore": "2021-11-01 17:58:19 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

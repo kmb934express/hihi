@@ -1,0 +1,230 @@
+{
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-05-16 23:23:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2021-04-26 13:30:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-05-24 10:02:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-18 03:26:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-18 03:26:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-05-24 10:02:44 +0800"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_swamp": "2021-05-16 01:31:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-18 03:26:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-18 03:26:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-18 03:26:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-18 03:26:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-18 03:26:07 +0800"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/sunken_ruin": {
+    "criteria": {
+      "ruin": "2022-03-10 06:13:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2021-04-26 13:27:33 +0800",
+      "minecraft:jungle_edge": "2021-05-16 23:56:14 +0800",
+      "minecraft:snowy_mountains": "2021-05-18 05:07:53 +0800",
+      "minecraft:forest": "2021-04-26 13:34:44 +0800",
+      "minecraft:mountains": "2021-04-26 13:34:48 +0800",
+      "minecraft:badlands_plateau": "2021-05-16 23:29:41 +0800",
+      "minecraft:mushroom_fields": "2021-10-14 10:48:29 +0800",
+      "minecraft:taiga": "2021-04-26 13:34:31 +0800",
+      "minecraft:desert_hills": "2021-05-16 01:33:12 +0800",
+      "minecraft:giant_tree_taiga": "2021-05-16 06:53:14 +0800",
+      "minecraft:deep_cold_ocean": "2021-05-16 23:07:00 +0800",
+      "minecraft:snowy_tundra": "2021-05-18 05:07:34 +0800",
+      "minecraft:taiga_hills": "2021-04-26 13:34:34 +0800",
+      "minecraft:desert": "2021-05-16 01:33:07 +0800",
+      "minecraft:frozen_river": "2021-05-18 05:07:31 +0800",
+      "minecraft:deep_frozen_ocean": "2021-05-23 10:34:26 +0800",
+      "minecraft:jungle": "2021-05-16 23:56:15 +0800",
+      "minecraft:birch_forest": "2021-05-16 01:32:18 +0800",
+      "minecraft:jungle_hills": "2021-05-16 23:56:21 +0800",
+      "minecraft:snowy_beach": "2021-05-18 05:08:46 +0800",
+      "minecraft:bamboo_jungle": "2021-05-16 23:56:25 +0800",
+      "minecraft:warm_ocean": "2021-05-20 07:57:52 +0800",
+      "minecraft:deep_lukewarm_ocean": "2021-05-16 23:05:15 +0800",
+      "minecraft:badlands": "2021-05-16 06:54:35 +0800",
+      "minecraft:savanna_plateau": "2021-04-26 13:27:38 +0800",
+      "minecraft:beach": "2021-04-26 13:27:37 +0800",
+      "minecraft:dark_forest": "2021-04-26 13:17:03 +0800",
+      "minecraft:river": "2021-04-26 13:18:29 +0800",
+      "minecraft:lukewarm_ocean": "2021-05-16 23:04:44 +0800",
+      "minecraft:snowy_taiga": "2021-05-18 05:07:26 +0800",
+      "minecraft:birch_forest_hills": "2021-05-16 23:07:17 +0800",
+      "minecraft:wooded_mountains": "2021-04-26 13:38:27 +0800",
+      "minecraft:bamboo_jungle_hills": "2021-10-13 11:30:18 +0800",
+      "minecraft:wooded_hills": "2021-04-26 13:35:35 +0800",
+      "minecraft:giant_tree_taiga_hills": "2021-05-16 06:53:17 +0800",
+      "minecraft:stone_shore": "2021-05-16 23:05:52 +0800",
+      "minecraft:wooded_badlands_plateau": "2021-05-16 23:29:28 +0800",
+      "minecraft:mushroom_field_shore": "2021-10-14 10:48:32 +0800",
+      "minecraft:swamp": "2021-05-16 01:31:58 +0800",
+      "minecraft:snowy_taiga_hills": "2021-05-18 05:07:27 +0800",
+      "minecraft:savanna": "2021-04-26 13:27:35 +0800",
+      "minecraft:plains": "2021-04-26 13:16:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2021-05-23 08:40:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-18 03:26:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2022-02-27 23:17:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2021-05-23 08:40:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-05-16 01:25:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-05-16 23:23:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-18 03:26:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-18 03:26:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-05-16 23:23:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-05-16 23:23:22 +0800"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/ghost_town": {
+    "criteria": {
+      "ghost_town": "2021-08-22 03:06:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-09-19 08:37:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-05-16 23:23:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-05-16 23:23:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-18 03:26:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-18 03:26:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-18 03:26:07 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

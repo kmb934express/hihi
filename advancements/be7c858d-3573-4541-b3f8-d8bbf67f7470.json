@@ -1,0 +1,235 @@
+{
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2021-04-24 02:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2021-04-24 02:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2021-04-24 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_boots": "2021-04-24 00:57:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2021-04-24 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2021-04-24 02:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-04-24 00:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2021-04-24 00:47:41 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_swamp": "2021-04-24 01:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2021-04-24 00:57:37 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/badlands_disc": {
+    "criteria": {
+      "get_disc": "2021-04-24 02:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2021-04-24 02:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2021-04-24 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2021-04-24 02:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_boots": "2021-04-24 00:57:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2021-04-24 00:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2021-04-24 01:15:35 +0000",
+      "minecraft:snowy_mountains": "2021-04-24 02:42:24 +0000",
+      "minecraft:forest": "2021-04-24 01:07:20 +0000",
+      "minecraft:mountains": "2021-04-24 01:16:15 +0000",
+      "minecraft:taiga": "2021-04-24 00:57:56 +0000",
+      "minecraft:desert_hills": "2021-04-24 02:07:51 +0000",
+      "minecraft:giant_tree_taiga": "2021-04-24 00:58:05 +0000",
+      "minecraft:deep_cold_ocean": "2021-04-24 01:15:39 +0000",
+      "minecraft:snowy_tundra": "2021-04-24 02:29:32 +0000",
+      "minecraft:taiga_hills": "2021-04-24 01:07:26 +0000",
+      "minecraft:desert": "2021-04-24 01:07:29 +0000",
+      "minecraft:frozen_river": "2021-04-24 02:29:56 +0000",
+      "minecraft:birch_forest": "2021-04-24 01:07:56 +0000",
+      "minecraft:deep_lukewarm_ocean": "2021-04-24 01:07:43 +0000",
+      "minecraft:badlands": "2021-04-24 02:47:02 +0000",
+      "minecraft:beach": "2021-04-24 01:07:32 +0000",
+      "minecraft:dark_forest": "2021-04-24 00:46:50 +0000",
+      "minecraft:river": "2021-04-24 00:59:43 +0000",
+      "minecraft:lukewarm_ocean": "2021-04-24 01:07:47 +0000",
+      "minecraft:snowy_taiga": "2021-04-24 02:29:27 +0000",
+      "minecraft:birch_forest_hills": "2021-04-24 01:09:40 +0000",
+      "minecraft:wooded_mountains": "2021-04-24 01:16:33 +0000",
+      "minecraft:wooded_hills": "2021-04-24 01:09:29 +0000",
+      "minecraft:giant_tree_taiga_hills": "2021-04-24 00:58:24 +0000",
+      "minecraft:stone_shore": "2021-04-24 02:23:20 +0000",
+      "minecraft:wooded_badlands_plateau": "2021-04-24 02:47:30 +0000",
+      "minecraft:swamp": "2021-04-24 01:08:19 +0000",
+      "minecraft:snowy_taiga_hills": "2021-04-24 02:29:28 +0000",
+      "minecraft:plains": "2021-04-24 00:43:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2021-04-24 02:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2021-04-24 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2021-04-24 02:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2021-04-24 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2021-04-24 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-04-24 00:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-04-24 02:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2021-04-24 02:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2021-04-24 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-04-24 00:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-04-24 00:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2021-04-24 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2021-04-24 02:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2021-04-24 02:53:51 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/ghost_town": {
+    "criteria": {
+      "ghost_town": "2021-04-24 02:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-04-24 00:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-04-24 00:53:40 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

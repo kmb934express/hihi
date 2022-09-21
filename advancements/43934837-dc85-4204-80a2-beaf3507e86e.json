@@ -1,0 +1,57 @@
+{
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_swamp": "2022-04-22 03:54:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-04-22 03:46:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-04-22 03:46:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2022-04-22 03:57:24 +0800",
+      "minecraft:snowy_mountains": "2022-04-22 03:58:51 +0800",
+      "minecraft:forest": "2022-04-22 03:40:54 +0800",
+      "minecraft:mountains": "2022-04-22 03:39:23 +0800",
+      "minecraft:taiga": "2022-04-22 03:57:57 +0800",
+      "minecraft:desert_hills": "2022-04-22 03:57:42 +0800",
+      "minecraft:giant_tree_taiga": "2022-04-22 03:57:54 +0800",
+      "minecraft:deep_cold_ocean": "2022-04-22 03:57:25 +0800",
+      "minecraft:snowy_tundra": "2022-04-22 03:58:43 +0800",
+      "minecraft:taiga_hills": "2022-04-22 03:59:48 +0800",
+      "minecraft:desert": "2022-04-22 03:57:40 +0800",
+      "minecraft:frozen_river": "2022-04-22 03:59:17 +0800",
+      "minecraft:deep_frozen_ocean": "2022-04-22 03:57:28 +0800",
+      "minecraft:birch_forest": "2022-04-22 03:51:15 +0800",
+      "minecraft:snowy_beach": "2022-04-22 03:59:35 +0800",
+      "minecraft:warm_ocean": "2022-04-22 03:56:48 +0800",
+      "minecraft:deep_lukewarm_ocean": "2022-04-22 03:56:44 +0800",
+      "minecraft:savanna_plateau": "2022-04-22 03:57:59 +0800",
+      "minecraft:beach": "2022-04-22 03:56:37 +0800",
+      "minecraft:dark_forest": "2022-04-22 03:57:02 +0800",
+      "minecraft:river": "2022-04-22 03:36:50 +0800",
+      "minecraft:lukewarm_ocean": "2022-04-22 03:56:45 +0800",
+      "minecraft:snowy_taiga": "2022-04-22 03:58:47 +0800",
+      "minecraft:birch_forest_hills": "2022-04-22 03:55:51 +0800",
+      "minecraft:wooded_mountains": "2022-04-22 03:40:26 +0800",
+      "minecraft:wooded_hills": "2022-04-22 03:42:24 +0800",
+      "minecraft:stone_shore": "2022-04-22 03:34:19 +0800",
+      "minecraft:swamp": "2022-04-22 03:54:53 +0800",
+      "minecraft:snowy_taiga_hills": "2022-04-22 03:58:57 +0800",
+      "minecraft:savanna": "2022-04-22 03:57:58 +0800",
+      "minecraft:plains": "2022-04-22 03:57:00 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

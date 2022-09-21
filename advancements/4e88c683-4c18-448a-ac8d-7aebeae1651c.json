@@ -1,0 +1,69 @@
+{
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_dark_forest": "2022-01-07 02:31:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-01-07 02:36:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-01-07 02:36:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-01-07 02:36:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-01-07 02:36:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-01-07 02:36:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-01-07 02:36:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2022-01-12 01:27:19 +0800",
+      "minecraft:forest": "2022-01-07 02:42:09 +0800",
+      "minecraft:mountains": "2022-01-12 01:42:48 +0800",
+      "minecraft:badlands_plateau": "2022-01-12 01:51:58 +0800",
+      "minecraft:desert_hills": "2022-01-11 23:00:42 +0800",
+      "minecraft:desert": "2022-01-11 22:59:05 +0800",
+      "minecraft:birch_forest": "2022-01-12 00:27:59 +0800",
+      "minecraft:badlands": "2022-01-12 01:51:48 +0800",
+      "minecraft:savanna_plateau": "2022-01-07 02:34:44 +0800",
+      "minecraft:beach": "2022-01-12 01:52:30 +0800",
+      "minecraft:dark_forest": "2022-01-07 02:31:56 +0800",
+      "minecraft:river": "2022-01-07 02:32:52 +0800",
+      "minecraft:birch_forest_hills": "2022-01-12 00:28:14 +0800",
+      "minecraft:wooded_hills": "2022-01-12 00:27:50 +0800",
+      "minecraft:stone_shore": "2022-01-12 01:27:56 +0800",
+      "minecraft:wooded_badlands_plateau": "2022-01-12 01:51:50 +0800",
+      "minecraft:swamp": "2022-01-12 00:28:22 +0800",
+      "minecraft:savanna": "2022-01-07 02:34:45 +0800",
+      "minecraft:plains": "2022-01-07 02:24:13 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

@@ -1,0 +1,104 @@
+{
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_swamp": "2022-01-29 06:02:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-01-30 18:18:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-01-30 18:18:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-01-30 18:18:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-01-29 05:58:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-01-30 18:18:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-01-29 05:58:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-01-30 18:18:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-01-30 18:18:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2022-01-29 06:29:36 +0800",
+      "minecraft:jungle_edge": "2022-01-30 18:44:50 +0800",
+      "minecraft:snowy_mountains": "2022-01-30 23:52:54 +0800",
+      "minecraft:forest": "2022-01-29 06:02:13 +0800",
+      "minecraft:mountains": "2022-01-29 06:02:08 +0800",
+      "minecraft:mushroom_fields": "2022-01-30 18:50:39 +0800",
+      "minecraft:badlands_plateau": "2022-01-30 23:44:39 +0800",
+      "minecraft:taiga": "2022-01-29 06:24:43 +0800",
+      "minecraft:desert_hills": "2022-01-29 06:46:19 +0800",
+      "minecraft:giant_tree_taiga": "2022-01-30 23:49:38 +0800",
+      "minecraft:deep_cold_ocean": "2022-01-29 06:47:49 +0800",
+      "minecraft:snowy_tundra": "2022-01-30 23:52:35 +0800",
+      "minecraft:taiga_hills": "2022-01-29 06:25:04 +0800",
+      "minecraft:desert": "2022-01-29 06:46:20 +0800",
+      "minecraft:frozen_river": "2022-01-30 23:52:44 +0800",
+      "minecraft:deep_frozen_ocean": "2022-01-29 06:53:26 +0800",
+      "minecraft:jungle": "2022-01-30 23:55:50 +0800",
+      "minecraft:birch_forest": "2022-01-29 06:02:16 +0800",
+      "minecraft:jungle_hills": "2022-01-30 23:56:02 +0800",
+      "minecraft:snowy_beach": "2022-01-31 00:10:35 +0800",
+      "minecraft:bamboo_jungle": "2022-01-30 18:44:46 +0800",
+      "minecraft:warm_ocean": "2022-01-30 18:50:24 +0800",
+      "minecraft:deep_lukewarm_ocean": "2022-01-29 06:46:34 +0800",
+      "minecraft:badlands": "2022-01-30 23:44:23 +0800",
+      "minecraft:savanna_plateau": "2022-01-29 06:50:35 +0800",
+      "minecraft:beach": "2022-01-29 06:13:09 +0800",
+      "minecraft:dark_forest": "2022-01-29 06:03:11 +0800",
+      "minecraft:river": "2022-01-29 05:59:58 +0800",
+      "minecraft:lukewarm_ocean": "2022-01-29 06:46:33 +0800",
+      "minecraft:snowy_taiga": "2022-01-30 23:52:57 +0800",
+      "minecraft:birch_forest_hills": "2022-01-29 06:02:17 +0800",
+      "minecraft:wooded_mountains": "2022-01-29 06:02:10 +0800",
+      "minecraft:bamboo_jungle_hills": "2022-01-30 23:56:04 +0800",
+      "minecraft:wooded_hills": "2022-01-29 06:02:33 +0800",
+      "minecraft:stone_shore": "2022-01-29 05:57:12 +0800",
+      "minecraft:giant_tree_taiga_hills": "2022-01-30 23:49:44 +0800",
+      "minecraft:mushroom_field_shore": "2022-01-30 18:50:38 +0800",
+      "minecraft:wooded_badlands_plateau": "2022-01-30 23:44:22 +0800",
+      "minecraft:swamp": "2022-01-29 06:02:18 +0800",
+      "minecraft:snowy_taiga_hills": "2022-02-02 03:22:52 +0800",
+      "minecraft:savanna": "2022-01-29 06:49:04 +0800",
+      "minecraft:plains": "2022-01-29 06:02:43 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

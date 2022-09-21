@@ -1,0 +1,41 @@
+{
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2021-06-10 09:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2021-06-10 09:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2021-06-10 09:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-06-08 09:49:52 +0000",
+      "minecraft:mountains": "2021-06-10 09:45:43 +0000",
+      "minecraft:taiga": "2021-06-05 09:45:10 +0000",
+      "minecraft:taiga_hills": "2021-06-05 09:46:38 +0000",
+      "minecraft:birch_forest": "2021-06-05 09:53:44 +0000",
+      "minecraft:dark_forest": "2021-06-05 08:58:37 +0000",
+      "minecraft:river": "2021-06-05 09:45:35 +0000",
+      "minecraft:birch_forest_hills": "2021-06-05 09:56:03 +0000",
+      "minecraft:plains": "2021-06-05 09:40:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2021-06-10 09:41:20 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

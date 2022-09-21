@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dark_forest": "2021-04-14 12:46:18 +0000",
+      "minecraft:plains": "2021-04-14 12:45:31 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
